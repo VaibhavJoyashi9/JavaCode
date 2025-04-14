@@ -1,5 +1,5 @@
 
-
+import java.util.*;
 class DqueueStruct
 {
 	class Node
